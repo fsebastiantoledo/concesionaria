@@ -1,0 +1,20 @@
+[
+{
+"nombre": "Juan",
+"capacidadDePagoEnCuotas": 30000,
+"capacidadDePagoTotal": 50000
+},
+
+{
+"nombre": "santiago",
+"capacidadDePagoEnCuotas": 10000,
+"capacidadDePagoTotal": 200000
+},
+
+{
+"nombre": "pepe",
+"capacidadDePagoEnCuotas": 7200,
+"capacidadDePagoTotal": 10000000
+}
+    
+]
